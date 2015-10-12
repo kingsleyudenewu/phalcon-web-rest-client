@@ -1,0 +1,2 @@
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+{{ partial("inc/footer") }}
