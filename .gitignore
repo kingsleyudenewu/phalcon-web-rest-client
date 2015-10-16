@@ -1,3 +1,4 @@
-app/cache/
+/app/cache/
 composer.lock
-vendor/
+/vendor/
+/public/vendor/
